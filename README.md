@@ -45,3 +45,11 @@ CREDITS
 =======
 Special Thanks to https://github.com/hkpesala for data structure
 Special Thanks to https://github.com/priyankshah217
+
+LICENCE
+=======
+http://www.wtfpl.net/
+
+Still reading? Reach me for more interesting stuff
+---------------------------
+https://twitter.com/yourfrienddhruv
